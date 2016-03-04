@@ -25,7 +25,7 @@ See the usage [example](https://github.com/cdcseacave/openMVS/Usage) wiki page.
 
 ## License
 
-See the [copyright](https://github.com/OpenMVS/openMVS/blob/master/COPYRIGHT.md) file.
+See the [copyright](https://github.com/AsGz/openMVS/blob/master/COPYRIGHT.md) file.
 
 ## Contact
 
